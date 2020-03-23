@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeyeiyiev.fuzhongkuo.cn/sitemap.xml
